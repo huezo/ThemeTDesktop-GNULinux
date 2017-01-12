@@ -11,9 +11,10 @@ LICENCIA GPL v3
 
 https://huezohuezo1990.wordpress.com/
 
-# demo
-
-[GNU Linux Theme ]: https://github.com/huezo/ThemeTDesktop-GNULinux/raw/master/demo.png
 
 
+[GNU_Linux]: https://github.com/huezo/ThemeTDesktop-GNULinux/raw/master/demo.png
+
+## GNU Linux Theme
+![GNU Linux Theme][GNU_Linux]
 
