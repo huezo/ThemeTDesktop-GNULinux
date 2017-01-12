@@ -1,8 +1,14 @@
 //https://telegram.me/GNULinuxEs
+
 //huezohuezo1990.wordpress.com
+
 //https://telegram.me/huezohuezo1990
+
 // https://telegram.me/GnuLinuxEs
+
 //https://telegram.me/ubuntues
+
+
 mainMenuBg: windowBg;
 mainMenuCoverBg: dialogsBgActive;
 mainMenuCoverFg: windowFgActive;
@@ -41,8 +47,12 @@ mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;
 mediaviewTransparentBg: #ffffff;
 mediaviewTransparentFg: #cccccc;
 notificationBg: windowBg;
+
+
 //ventana
 windowBg: #111111;
+
+
 windowFg: #eff0f1;
 windowBgOver: #222222;
 windowBgRipple: #252525;
@@ -92,7 +102,12 @@ sliderBgInactive: #e1eaef;
 sliderBgActive: windowBgActive;
 tooltipBg: #222222;
 tooltipFg: #eeeeee;
+
+
 tooltipBorderFg: #111111;
+
+
+
 titleBg: windowBg;
 titleShadow: #00000003;
 titleButtonFg: #ababab;
@@ -204,8 +219,12 @@ historyCaptionInFg: historyTextInFg;
 historyCaptionOutFg: historyTextOutFg;
 historyFileNameInFg: historyTextInFg;
 historyFileNameOutFg: historyTextOutFg;
+
+
 //check
+
 historyOutIconFg: #5dc452;
+
 historyOutIconFgSelected: #4da79f;
 historyIconFgInverted: windowFgActive;
 historySendingOutIconFg: #98d292;
@@ -242,9 +261,17 @@ historyScrollBg: #556e834c;
 historyScrollBgOver: #556e836b;
 msgInBg: windowBg;
 msgInBgSelected: #2980B9;
+
+
 //color de mensaje de salida
 msgOutBg: #3d3d3d;
+
+
+
+
 msgOutBgSelected: #b7dbdb;
+
+
 msgSelectOverlay: #358cd44c;
 msgStickerOverlay: #358cd47f;
 msgInServiceFg: windowActiveTextFg;
@@ -273,10 +300,20 @@ msgDateImgFg: msgServiceFg;
 msgDateImgBg: #00000094;
 msgDateImgBgOver: #00000094;
 msgDateImgBgSelected: #1c4a7187;
+
+
+
 msgFileThumbLinkInFg: #ffffff;
 msgFileThumbLinkInFgSelected: lightButtonFgOver;
 msgFileThumbLinkOutFg: #5eba5b;
 msgFileThumbLinkOutFgSelected: #31a298;
+
+
+
+
+
+
+
 msgFileInBg: #222222;
 msgFileInBgOver: #4eade3;
 msgFileInBgSelected: #51a3d3;
@@ -364,8 +401,14 @@ lightButtonFgOver: #ffffff;
 attentionButtonFg: #d14e4e;
 attentionButtonFgOver: #d14e4e;
 attentionButtonBgOver: #222222;
+
+
 //https://telegram.me/GNULinuxEs
+
 //huezohuezo1990.wordpress.com
+
 //https://telegram.me/huezohuezo1990
+
 // https://telegram.me/GnuLinuxEs
+
 //https://telegram.me/ubuntues
