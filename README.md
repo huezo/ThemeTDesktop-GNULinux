@@ -9,7 +9,7 @@ LICENCIA GPL v3
 
 # Web Site ( Sitio Web ) :
 
-https://huezohuezo1990.wordpress.com/
+[https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
 
 
 
@@ -20,7 +20,7 @@ https://huezohuezo1990.wordpress.com/
 
 ## gitlab 
 
-https://gitlab.com/huezo/ThemeTDesktop-GNULinux/tree/master
+[https://gitlab.com/huezo/ThemeTDesktop-GNULinux/tree/master](https://gitlab.com/huezo/ThemeTDesktop-GNULinux/tree/master)
 
 
 
