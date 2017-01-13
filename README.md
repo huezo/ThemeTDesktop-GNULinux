@@ -8,7 +8,7 @@ LICENSE GPL v3
 LICENCIA GPL v3 
 
 # download (descargar)
-[download - Descargar] (https://github.com/huezo/ThemeTDesktop-GNULinux/raw/master/theme/gnulinux.tdesktop-theme)
+[download - Descargar](https://github.com/huezo/ThemeTDesktop-GNULinux/raw/master/theme/gnulinux.tdesktop-theme)
 
 ## Source code ( Codigo Fuente )
 
