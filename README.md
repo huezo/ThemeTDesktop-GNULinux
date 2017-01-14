@@ -1,3 +1,6 @@
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)]() 
+
+
 # ThemeTDesktop-GNULinux
 Theme Telegram Desktop ( Theme GNU/Linux ) 
 
