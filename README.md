@@ -29,7 +29,9 @@ LICENCIA GPL v3
 
 
 ## GNU Linux Theme
+
 ![GNU Linux Theme][GNU_Linux]
+
 
 ![GNU Linux Theme Gray ][GNU_Linux2]
 
