@@ -25,8 +25,13 @@ LICENCIA GPL v3
 
 [GNU_Linux]: https://github.com/huezo/ThemeTDesktop-GNULinux/raw/master/demo.png
 
+[GNU_Linux2]: https://raw.githubusercontent.com/huezo/ThemeTDesktop-GNULinux/master/demo2.png
+
+
 ## GNU Linux Theme
 ![GNU Linux Theme][GNU_Linux]
+
+![GNU Linux Theme Gray ][GNU_Linux2]
 
 
 # .
