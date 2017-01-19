@@ -43,7 +43,8 @@ LICENCIA GPL v3
 
 
 
-# [Wiki](https://github.com/huezo/ThemeTDesktop-GNULinux/wiki)
+# Wiki
+[https://github.com/huezo/ThemeTDesktop-GNULinux/wiki](https://github.com/huezo/ThemeTDesktop-GNULinux/wiki)
 
 
 
