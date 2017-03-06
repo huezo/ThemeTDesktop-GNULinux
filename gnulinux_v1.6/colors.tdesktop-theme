@@ -87,10 +87,10 @@ outlineButtonOutlineFg: windowBgActive;
 outlineButtonBgRipple: lightButtonBgRipple;
 
 
-menuBg: windowBg;
+menuBg: #1e1e1e;
 
 
-menuBgOver: windowBgOver;
+menuBgOver: #222222;
 menuBgRipple: windowBgRipple;
 menuIconFg: #a8a8a8;
 menuIconFgOver: #999999;
@@ -283,7 +283,7 @@ historyScrollBgOver: #556e836b;
 msgInBg: 5dc452;
 
 
-msgInBgSelected: #0a2024;
+msgInBgSelected: #151515;
 
 
 //color de mensaje de salida
@@ -295,8 +295,8 @@ msgOutBg: #0e3238f0;
 msgOutBgSelected: #282828;
 
 
-msgSelectOverlay: #358cd44c;
-msgStickerOverlay: #358cd47f;
+msgSelectOverlay: #358dd4a7;
+msgStickerOverlay: #358dd4cb;
 msgInServiceFg: windowActiveTextFg;
 msgInServiceFgSelected: windowActiveTextFg;
 msgOutServiceFg: #3a8e26;
@@ -322,7 +322,7 @@ msgOutMonoFg: #00dd58;
 msgDateImgFg: msgServiceFg;
 msgDateImgBg: #00000094;
 msgDateImgBgOver: #00000094;
-msgDateImgBgSelected: #1c4a7187;
+msgDateImgBgSelected: #1c4b71a9;
 
 
 
@@ -340,7 +340,7 @@ msgFileThumbLinkOutFgSelected: #31a298;
 msgFileInBg: #6c6c6cd6;
 msgFileInBgOver: #4eade3;
 msgFileInBgSelected: #51a3d3;
-msgFileOutBg: #222222;
+msgFileOutBg: #7e7e7e;
 msgFileOutBgOver: #6bc272;
 msgFileOutBgSelected: #5fb389;
 msgFile1Bg: #72b1df;
@@ -442,3 +442,8 @@ historyLinkOutFg: #1cc000;
 historyLinkOutFgSelected: historyLinkOutFg;
 mediaviewSaveMsgBg: #000000bd;
 historyTextInFgSelected: #f0f0f1;
+historyPinnedBg: #323232fc;
+mediaviewFileBg: windowBg;
+historyToDownFg: menuIconFg;
+historyFileThumbIconFg: msgInBg;
+historyFileOutIconFgSelected: msgOutBgSelected;
