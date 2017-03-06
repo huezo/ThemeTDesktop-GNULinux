@@ -51,9 +51,11 @@ v1.4
 
 
 
-v1.6
+v1.6.1
 
 ![GNU Linux  NEW][GNU_Linux6]
+
+![gnulinux_v6 png](https://cloud.githubusercontent.com/assets/15940634/23632713/960d953a-0288-11e7-8a75-405d2606e3b0.png)
 
 
 # .
