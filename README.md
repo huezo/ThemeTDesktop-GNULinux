@@ -36,22 +36,22 @@ LICENCIA GPL v3
 [GNU_Linux6]:https://github.com/huezo/ThemeTDesktop-GNULinux/blob/master/gnulinux_v6.png
 
 ## GNU Linux Theme
-v1.0
+v1.2
 ![GNU Linux Theme][GNU_Linux]
 
-v2.0
+v1.3
 ![GNU Linux Theme Gray ][GNU_Linux2]
 
-v3.0
+v1.4
 ![GNU Linux Theme Gray2 ][GNU_Linux3]
 
-v5.0
+v1.4
 
 ![GNU Linux Theme NEW][GNU_Linux5]
 
 
 
-v6.0
+v1.6
 
 ![GNU Linux  NEW][GNU_Linux6]
 
