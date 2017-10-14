@@ -79,5 +79,15 @@ v1.6.1
 [https://gitlab.com/huezo/ThemeTDesktop-GNULinux/tree/master](https://gitlab.com/huezo/ThemeTDesktop-GNULinux/tree/master)
 
 
+# Telegram 
+Channel / Canal
+
+[https://t.me/ThemesTelegramTemas](https://t.me/ThemesTelegramTemas)
+
+user / usuario 
+
+[https://t.me/huezohuezo1990](https://t.me/huezohuezo1990)
+
+
 
 
